@@ -59,6 +59,7 @@ The application will be available at:
 - **ArgoCD UI**: Check ArgoCD dashboard for deployment status
 
 ## 🔄 GitOps Workflow
+<img width="916" height="437" alt="Image" src="https://github.com/user-attachments/assets/fcf76200-6bdc-4034-a1e7-ceb4051abebe" />
 
 ### CI Pipeline (GitHub Actions)
 
